@@ -30,6 +30,8 @@ Principais frentes técnicas:
 - otimização energética;
 - aprendizado por reforço aplicado ao controle do EMS.
 
+Repositório público: [ems-microrredes-isoladas](https://github.com/LucasRibeirodatascience/ems-microrredes-isoladas)
+
 Detalhes no portfólio: [EMS para microrredes isoladas](https://lucasribeirodatascience.github.io/portfolio-lucas-ribeiro/#ems)
 
 ## Pesquisa aplicada
