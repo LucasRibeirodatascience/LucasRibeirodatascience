@@ -2,7 +2,7 @@
 
 Cientista de Dados com atuação em aprendizado de máquina, previsão, otimização, risco de crédito e sistemas inteligentes para suporte à tomada de decisão.
 
-Atualmente sou Data Scientist na PS Soluções, atuando em um projeto de P&D em Energia Inteligente voltado ao desenvolvimento de um Sistema de Gerenciamento de Energia (EMS) para microrredes isoladas híbridas PV/BESS/Diesel.
+Atuei como Data Scientist na PS Soluções entre julho de 2025 e junho de 2026, em um projeto de P&D em Energia Inteligente voltado ao desenvolvimento de um Sistema de Gerenciamento de Energia (EMS) para microrredes isoladas híbridas PV/BESS/Diesel.
 
 Também mantenho projetos públicos de portfólio com foco em engenharia de dados, análise de crédito, modelagem de risco, APIs analíticas e agentes de IA com guardrails.
 
